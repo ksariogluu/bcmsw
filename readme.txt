@@ -2,4 +2,4 @@ this is new file
 
 hello
 
-hi
+hi, modified
